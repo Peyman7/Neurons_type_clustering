@@ -1,6 +1,6 @@
 # Neural Cell Clustering: Pyramidal and Interneuron Analysis
 
-This repository contains Python scripts for analyzing and clustering neural cells into pyramidal, interneuron, and unclassified categories. The analysis involves data preprocessing, visualization, and clustering using various machine learning techniques. Below is an overview of the included functionality and usage.
+This repository contains Python scripts for analyzing and clustering neural cells in the Primary Motor Cortex (M1) into pyramidal, interneuron, and unclassified categories. The analysis involves data preprocessing, visualization, and clustering using various machine learning techniques. Below is an overview of the included functionality and usage.
 
 ## Features
 
